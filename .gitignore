@@ -4,3 +4,7 @@
 *.rpyc
 *.rpyc.bak
 /game/saves/*
+**/*.rpyc
+**/*.rpa
+**/*.rpymc
+**/cache/
