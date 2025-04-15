@@ -3,3 +3,4 @@
 /traceback.txt
 *.rpyc
 *.rpyc.bak
+/game/saves/*
